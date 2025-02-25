@@ -1,17 +1,17 @@
-country,population
-Benin,13123128
-Burkina Faso,23456678
-Cape Verde,598682
-Ivory Coast,27672000
-Gambia,2590000
-Ghana,33433340
-Guinea,14094600
-Guinea-Bissau,2158891
-Liberia,5308000
-Mali,21797300
-Mauritania,4830300
-Niger,25177878
-Nigeria,223804632
-Senegal,17838787
-Sierra Leone,8469000
-Togo,8653000
+country,population,Test,Owner
+Benin,13123128,yes,Zander
+Burkina Faso,23456678,yes,Phil
+Cape Verde,598682,no,Scarlett
+Ivory Coast,27672000,yes,Zander
+Gambia,2590000,no,Phil
+Ghana,33433340,yes,Scarlett
+Guinea,14094600,no,Zander
+Guinea-Bissau,2158891,no,Phil
+Liberia,5308000,no,Scarlett
+Mali,21797300,no,Zander
+Mauritania,4830300,yes,Phil
+Niger,25177878,no,Scarlett
+Nigeria,223804632,yes,Zander
+Senegal,17838787,yes,Phil
+Sierra Leone,8469000,yes,Scarlett
+Togo,8653000,yes,Zander
